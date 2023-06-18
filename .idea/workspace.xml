@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14156ed4-02ee-4b64-aa14-8d9e421ef759" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor_Components/LineTraceComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor_Components/LineTraceComponent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor_Components/WeaponComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor_Components/WeaponComponent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/ARInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/ARInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/MeleeInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/MeleeInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/PistolInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/PistolInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/RLInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/RLInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/SMGInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/SMGInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/SRInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/SRInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/ShotgunInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Data/Struct/WeaponInfo/ShotgunInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pickups/WeaponPickup_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pickups/WeaponPickup_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/AI/BP_AI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/AI/BP_AI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Maps/Level_1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Maps/Level_1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Player/BP_Base_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Player/BP_Base_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Player/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_L85.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_L85.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_ak12.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_ak12.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_ak47.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_ak47.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_aug.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_aug.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_famas.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_famas.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_m4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Assault_Rifle/SM_m4.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_baseballbat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_baseballbat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_batton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_batton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_club.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_club.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_crowbar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_crowbar.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_heavywrench.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_heavywrench.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_katana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_katana.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_machete.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_machete.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_maul.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_maul.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_rambo_knife.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Melee/SM_rambo_knife.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_DesertEagle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_DesertEagle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_beretta92.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_beretta92.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_colt1911.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_colt1911.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_glock.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_glock.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_p226.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_p226.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_python.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Pistols/SM_python.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_javelin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_javelin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_rpg.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_rpg.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_rpg_parts.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_rpg_parts.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_rpg_projectile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_rpg_projectile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_smaw.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Rocket_Launcher/SM_smaw.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_mp5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_mp5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_mp7.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_mp7.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_p90.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_p90.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_scorpion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_scorpion.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_ump45.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_ump45.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_uzi_micro.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SMG/SM_uzi_micro.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/SM_bone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/SM_bone.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_Blaserf3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_Blaserf3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_auto5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_auto5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_m3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_m3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_spas.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_spas.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_striker.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_striker.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_usas12.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Shotgun/SM_usas12.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_awp.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_awp.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_barret.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_barret.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_m110.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_m110.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_m21.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_m21.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_psg1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_psg1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_ssg300.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Weapons/Sniper/SM_ssg300.uasset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="240" />
+    <option name="y" value="128" />
+    <option name="width" value="1440" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14156ed4-02ee-4b64-aa14-8d9e421ef759" name="Default Changelist" comment="" />
+      <created>1687108979925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687108979925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="240" y="128" width="1440" height="773" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32952926" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
